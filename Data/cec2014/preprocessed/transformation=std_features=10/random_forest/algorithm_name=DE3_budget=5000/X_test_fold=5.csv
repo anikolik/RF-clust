@@ -1,0 +1,2 @@
+f_id,i_id,disp.diff_median_25,pca.expl_var.cov_init,ic.eps.s,disp.diff_mean_10,ic.eps.ratio,ela_meta.lin_simple.intercept,ic.eps.max,pca.expl_var_PC1.cov_init,ela_distr.skewness,disp.ratio_mean_10
+5,1,1.5067244728473057,1.5470030867191007,-1.5315888038546897,1.402668991315598,-1.4883208548376448,-0.3303102644404391,-0.3870915898095021,-1.8069335369896613,-0.4474437034499685,1.4027603503720707

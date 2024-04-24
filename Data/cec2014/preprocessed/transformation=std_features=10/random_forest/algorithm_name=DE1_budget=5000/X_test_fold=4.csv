@@ -1,0 +1,2 @@
+f_id,i_id,ic.eps.s,ela_meta.lin_simple.coef.min,ic.eps.max,ic.eps.ratio,ela_meta.lin_simple.intercept,ela_meta.lin_simple.adj_r2,disp.ratio_median_02,nbc.nn_nb.sd_ratio,nbc.nn_nb.mean_ratio,ela_meta.quad_simple.adj_r2
+4,1,-0.0837800931389884,-0.2643006563844568,-0.3870864660082544,-0.0787072516008576,-0.3303061272222416,0.4556394724717673,-1.1082592804578948,1.0232111014605134,0.9655384602059536,0.6692641703647499

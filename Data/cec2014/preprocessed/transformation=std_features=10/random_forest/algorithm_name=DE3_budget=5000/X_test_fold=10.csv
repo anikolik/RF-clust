@@ -1,0 +1,2 @@
+f_id,i_id,ela_meta.lin_simple.intercept,ic.eps.s,ela_level.mmce_qda_50,ic.eps.ratio,pca.expl_var.cov_init,ic.eps.max,ela_distr.kurtosis,nbc.nb_fitness.cor,ela_meta.quad_simple.adj_r2,pca.expl_var_PC1.cov_init
+10,1,-0.3303098277042856,-0.5237222416942361,1.975872791098064,-0.4541452726818792,-0.7091399635591877,-0.3870912959148659,-0.2003081259262735,-1.9163963566466649,-1.4778452847781909,0.4809688326428748

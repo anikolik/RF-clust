@@ -1,0 +1,2 @@
+f_id,i_id,ic.eps.max,ela_meta.lin_simple.coef.min,ic.eps.ratio,pca.expl_var.cov_init,disp.diff_median_25,nbc.nn_nb.sd_ratio,ela_distr.kurtosis,ela_meta.quad_w_interact.adj_r2,pca.expl_var_PC1.cor_x,ela_meta.lin_simple.intercept
+22,1,-0.3870746026994164,-0.2640530008777945,0.3852999625257266,-0.7091399635591878,-0.3431028824674128,-0.240216337131974,-0.1533702317784285,0.4795056785191955,-1.4220913296972002,-0.3299600686794045

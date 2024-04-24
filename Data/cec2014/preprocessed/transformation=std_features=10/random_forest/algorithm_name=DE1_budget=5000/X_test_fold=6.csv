@@ -1,0 +1,2 @@
+f_id,i_id,ic.eps.ratio,pca.expl_var_PC1.cov_init,ic.eps.max,ela_meta.lin_simple.coef.min,ela_meta.lin_simple.intercept,ic.eps.s,ela_meta.lin_simple.coef.max,disp.diff_median_25,ela_level.mmce_qda_50,nbc.nb_fitness.cor
+6,1,-1.1932155161449518,-1.8069335369896615,-0.387091588953174,-0.2643087953840642,-0.3303102548207436,-1.254209945221541,-0.3628131718646601,0.5404785122008021,1.0981245683115293,-1.4248096651376378

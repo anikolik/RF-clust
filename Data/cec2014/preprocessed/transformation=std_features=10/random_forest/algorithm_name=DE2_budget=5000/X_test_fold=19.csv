@@ -1,0 +1,2 @@
+f_id,i_id,pca.expl_var_PC1.cov_init,ic.eps.ratio,ela_meta.lin_simple.intercept,ic.eps.s,ela_distr.skewness,ela_meta.lin_simple.coef.min,pca.expl_var.cov_init,ic.eps.max,ela_meta.lin_simple.coef.max,ela_level.mmce_qda_50
+19,1,0.698367874355888,-0.2861912137342403,-0.3303094263648448,-0.2579534809427486,-0.1788514988691703,-0.2643084457070696,-0.7091399635591878,-0.3870905210561803,-0.3628110952948701,-0.498249347025385

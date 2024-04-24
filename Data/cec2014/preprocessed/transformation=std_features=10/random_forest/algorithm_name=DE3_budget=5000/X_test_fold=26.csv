@@ -1,0 +1,2 @@
+f_id,i_id,ic.eps.ratio,pca.expl_var.cov_init,nbc.nb_fitness.cor,disp.diff_mean_05,ic.eps.s,ela_meta.lin_w_interact.adj_r2,pca.expl_var_PC1.cor_x,ela_distr.kurtosis,ela_meta.lin_simple.coef.max_by_min,pca.expl_var_PC1.cov_init
+26,1,-0.5765797345132343,-0.7091399635591878,0.7265556492825263,-0.4348142994109464,-0.472600252892097,0.102142595383731,-0.4866406139680045,-0.1838732080911035,-0.4034932751521911,0.6089810501938258

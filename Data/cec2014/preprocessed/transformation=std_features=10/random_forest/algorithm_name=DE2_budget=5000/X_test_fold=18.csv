@@ -1,0 +1,2 @@
+f_id,i_id,pca.expl_var_PC1.cov_init,ic.eps.s,ela_meta.lin_simple.coef.min,pca.expl_var.cov_init,ic.eps.max,ic.eps.ratio,ela_meta.lin_simple.intercept,nbc.nn_nb.cor,nbc.nn_nb.mean_ratio,ela_level.qda_mda_10
+18,1,0.6997709232301089,1.401693446217323,-0.1338140236285178,-0.7091399635591878,0.8594742946087864,1.518017591104257,0.3456749704320983,-0.6983247326459011,0.4302714313214179,0.0278254872008552

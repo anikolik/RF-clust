@@ -1,0 +1,2 @@
+f_id,i_id,ic.eps.s,ic.eps.ratio,pca.expl_var.cov_init,disp.diff_mean_05,ela_level.qda_mda_25,ela_level.mmce_mda_25,pca.expl_var_PC1.cor_x,ela_distr.kurtosis,ela_meta.lin_w_interact.adj_r2,ela_level.mmce_lda_50
+29,1,1.1706315857973282,1.1724764457449697,-0.7091399635591878,1.2192316376778043,-0.3269332456235009,-0.6970311131835728,-0.3482448474577958,-0.1835986325536272,0.8808345272574121,-1.0225250389045186

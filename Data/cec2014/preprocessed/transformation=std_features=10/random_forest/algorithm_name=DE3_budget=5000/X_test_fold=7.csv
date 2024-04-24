@@ -1,0 +1,2 @@
+f_id,i_id,pca.expl_var.cov_init,ic.eps.s,ela_distr.skewness,ic.eps.max,nbc.nn_nb.cor,ic.eps.ratio,disp.ratio_mean_10,pca.expl_var_PC1.cov_init,disp.diff_median_05,ela_meta.lin_simple.coef.max_by_min
+7,1,0.3936067677488086,-0.6951701976783914,-0.3027969240219945,-0.3870915210804582,0.9357650489224748,-0.6410253361777928,-1.3338502471433316,0.1868560494114762,-1.393628856372679,-0.614988662363408

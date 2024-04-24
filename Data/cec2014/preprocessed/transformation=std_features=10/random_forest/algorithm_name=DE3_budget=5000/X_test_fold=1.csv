@@ -1,0 +1,2 @@
+f_id,i_id,ic.eps.s,ela_meta.lin_w_interact.adj_r2,ela_meta.quad_simple.adj_r2,pca.expl_var_PC1.cor_x,ela_level.qda_mda_25,pca.expl_var.cov_init,disp.diff_median_25,nbc.nb_fitness.cor,ela_meta.lin_simple.intercept,nbc.nn_nb.sd_ratio
+1,1,1.414061612662079,1.237985001937395,0.6636528400862649,1.188558570953628,0.892468767414168,-0.7091399635591878,-0.1239908929302912,0.298862886877459,0.614124175406515,0.3109335314340838

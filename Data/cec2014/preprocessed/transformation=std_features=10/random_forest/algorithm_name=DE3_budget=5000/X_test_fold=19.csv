@@ -1,0 +1,2 @@
+f_id,i_id,ela_meta.lin_w_interact.adj_r2,pca.expl_var.cov_init,pca.expl_var_PC1.cov_init,ela_level.qda_mda_25,nbc.nb_fitness.cor,ic.eps.s,ic.eps.max,ela_level.lda_mda_10,disp.diff_median_25,ela_distr.number_of_peaks
+19,1,0.4871329064548881,-0.7091399635591878,0.698367874355888,1.0592875240161168,0.5048145075582976,-0.2579534809427486,-0.3870905210561803,0.4209518855039047,-0.2857839044972375,0.8670648319357529

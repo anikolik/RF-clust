@@ -1,0 +1,2 @@
+f_id,i_id,ic.eps.ratio,ic.eps.s,pca.expl_var.cov_init,disp.diff_median_25,ela_meta.lin_simple.coef.min,disp.diff_mean_02,ela_level.qda_mda_25,disp.diff_mean_25,ela_meta.quad_simple.cond,ela_level.lda_qda_50
+27,1,-0.30927903630782,-0.2748538454489436,-0.7091399635591878,0.3251732061757595,-0.2643010529022396,0.0902420118826281,0.3932312075638467,0.3278659174116793,-0.2608703828642921,-0.2418570798114071
